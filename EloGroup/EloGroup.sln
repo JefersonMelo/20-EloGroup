@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloGroup", "EloGroup.csproj", "{FEE0BDDE-D7F1-428A-A89A-37363BDC99F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE0BDDE-D7F1-428A-A89A-37363BDC99F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE0BDDE-D7F1-428A-A89A-37363BDC99F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE0BDDE-D7F1-428A-A89A-37363BDC99F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE0BDDE-D7F1-428A-A89A-37363BDC99F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA73FA9-F56C-40AA-93EB-845CF5B8B9A7}
+	EndGlobalSection
+EndGlobal
