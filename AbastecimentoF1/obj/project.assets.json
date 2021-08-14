@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jef_m\\Documents\\01-github\\20-EloGroup\\EloGroup\\EloGroup.csproj",
-      "projectName": "EloGroup",
-      "projectPath": "C:\\Users\\jef_m\\Documents\\01-github\\20-EloGroup\\EloGroup\\EloGroup.csproj",
+      "projectUniqueName": "C:\\Users\\jef_m\\Documents\\01-github\\20-Invilia\\AbastecimentoF1\\AbastecimentoF1.csproj",
+      "projectName": "AbastecimentoF1",
+      "projectPath": "C:\\Users\\jef_m\\Documents\\01-github\\20-Invilia\\AbastecimentoF1\\AbastecimentoF1.csproj",
       "packagesPath": "C:\\Users\\jef_m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jef_m\\Documents\\01-github\\20-EloGroup\\EloGroup\\obj\\",
+      "outputPath": "C:\\Users\\jef_m\\Documents\\01-github\\20-Invilia\\AbastecimentoF1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jef_m\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

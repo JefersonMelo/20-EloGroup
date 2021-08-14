@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EloGroup
+namespace AbastecimentoF1
 {
 	class Program
 	{

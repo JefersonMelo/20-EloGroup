@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EloGroup")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AbastecimentoF1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("EloGroup")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EloGroup")]
+[assembly: System.Reflection.AssemblyProductAttribute("AbastecimentoF1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AbastecimentoF1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
