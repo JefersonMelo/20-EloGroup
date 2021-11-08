@@ -228,9 +228,9 @@ Fim
 
 Pode ocorrer que alguns funcionários não obtenham reajuste salarial.  
 
-Se o funcionário tiver salário de 10000 obterá 5% de reajuste.
+- Se o funcionário tiver salário de 10000 obterá 5% de reajuste.
 
-- Se o funcionário tiver um salário de 1000 obterá 25% de reajuste, pois duas condições serão atendidas.
+Se o funcionário tiver um salário de 1000 obterá 25% de reajuste, pois duas condições serão atendidas.
 
 Pode ocorrer que alguns funcionários obtenham três reajustes salariais, sendo as três condições atendidas.
 
